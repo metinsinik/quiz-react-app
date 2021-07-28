@@ -1,6 +1,8 @@
 #**QUIZ APP**
-![quiz-react](https://user-images.githubusercontent.com/44985367/127343521-afcbc186-bdd6-4f89-b5c5-0cb8a7ab80fe.JPG)
+
 ![quiz-react-app](https://user-images.githubusercontent.com/44985367/127343527-2fe866ca-85f7-4152-8a20-afeb0d228bc5.JPG)
+
+![quiz-react](https://user-images.githubusercontent.com/44985367/127343521-afcbc186-bdd6-4f89-b5c5-0cb8a7ab80fe.JPG)
 
 # Getting Started with Create React App
 
